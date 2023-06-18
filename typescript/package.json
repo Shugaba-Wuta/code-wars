@@ -1,0 +1,12 @@
+{
+  "name": "typescript-code-wars",
+  "version": "0.0.1",
+  "description": "Code Wars Kata solutions",
+  "main": "index.ts",
+  "author": "Shugaba Wuta",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  }
+}
