@@ -33,4 +33,3 @@ function formatDuration(seconds: number) {
     return timeAnnotatedArray.join(", ").replace(", and", " and")
 
 }
-console.log(formatDuration(60 * 60))
